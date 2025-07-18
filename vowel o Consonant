@@ -1,0 +1,17 @@
+Varenyam Singh 24070123126
+#include<iostream>
+using namespace std;
+int main()
+{
+   char w;    
+   cout<<"Enter a character"<<endl;
+   cin>>w;
+   if(w=='a'||w=='e'||w=='i'||w=='o'||w=='u')
+   {
+       cout<<"Vowel"<<endl;
+   }
+   else
+   {
+     cout<<"Consonant"<<endl;  
+   }
+}  
