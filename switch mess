@@ -16,13 +16,13 @@ int main()
     switch(in)
     {
     case 1:
-    cout<<"poha"<<endl;
+    cout<<"Poha"<<endl;
     break;
     case 2:
-    cout<<"biryani"<<endl;
+    cout<<"Biryani"<<endl;
      break;
     case 3:
-    cout<<"rice"<<endl;
+    cout<<"Rice"<<endl;
      break;
     }
     break;
@@ -33,13 +33,13 @@ int main()
     switch(in)
     {
     case 1:
-    cout<<"pav bhaji"<<endl;
+    cout<<"Pav Bhaji"<<endl;
     break;
     case 2:
-    cout<<"daal roti"<<endl;
+    cout<<"Daal Roti"<<endl;
      break;
     case 3:
-    cout<<"fried rice"<<endl;
+    cout<<"Fried Rice"<<endl;
      break;
     }
     break;
@@ -50,13 +50,13 @@ int main()
     switch(in)
     {
     case 1:
-    cout<<"sandwitch"<<endl;
+    cout<<"Sandwitch"<<endl;
     break;
     case 2:
-    cout<<"biryani"<<endl;
+    cout<<"Biryani"<<endl;
      break;
     case 3:
-    cout<<"non veg"<<endl;
+    cout<<"Non veg"<<endl;
      break;
     }
     break;
@@ -67,13 +67,13 @@ int main()
     switch(in)
     {
     case 1:
-    cout<<"omelet"<<endl;
+    cout<<"Omelet"<<endl;
     break;
     case 2:
-    cout<<"egg rice"<<endl;
+    cout<<"Egg rice"<<endl;
      break;
     case 3:
-    cout<<"shushi"<<endl;
+    cout<<"Shushi"<<endl;
      break;
     }
     break;
@@ -84,13 +84,13 @@ int main()
     switch(in)
     {
     case 1:
-    cout<<"paratha"<<endl;
+    cout<<"Paratha"<<endl;
     break;
     case 2:
-    cout<<"puri sabzi"<<endl;
+    cout<<"Puri sabzi"<<endl;
      break;
     case 3:
-    cout<<"rice"<<endl;
+    cout<<"Rice"<<endl;
      break;
     }
     break;
@@ -101,13 +101,13 @@ int main()
     switch(in)
     {
     case 1:
-    cout<<"vada pav"<<endl;
+    cout<<"Vada pav"<<endl;
     break;
     case 2:
-    cout<<"chole bhature"<<endl;
+    cout<<"Chole bhature"<<endl;
      break;
     case 3:
-    cout<<"veg rice"<<endl;
+    cout<<"Veg rice"<<endl;
      break;
     }
     break;
@@ -118,13 +118,13 @@ int main()
     switch(in)
     {
     case 1:
-    cout<<"bread milk"<<endl;
+    cout<<"Bread milk"<<endl;
     break;
     case 2:
-    cout<<"panner sabzi"<<endl;
+    cout<<"Panner sabzi"<<endl;
      break;
     case 3:
-    cout<<"non veg"<<endl;
+    cout<<"Non veg"<<endl;
      break;
     }
     break;
