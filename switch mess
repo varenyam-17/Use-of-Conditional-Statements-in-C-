@@ -1,0 +1,132 @@
+#include<iostream>
+using namespace std;
+int main()
+{
+    int ch;
+    int in;
+    cout<<"1.Monday"<<endl<<"2.Teusday"<<endl<<"3.Wednesday"<<endl<<"4.Thursday"<<endl<<"5.Friday"<<endl<<"6.Saturday"<<endl<<"7.Sunday"<<endl;
+    cout<<"Enter Your Choice~>"<<endl;
+    cin>>ch;
+    switch(ch)
+    {
+    case 1:
+    cout<<"1.Breakfast"<<endl<<"2.Lunch"<<endl<<"3.Dinner"<<endl;
+    cout<<"Enter Your Shift~>"<<endl;
+    cin>>in;
+    switch(in)
+    {
+    case 1:
+    cout<<"poha"<<endl;
+    break;
+    case 2:
+    cout<<"biryani"<<endl;
+     break;
+    case 3:
+    cout<<"rice"<<endl;
+     break;
+    }
+    break;
+    case 2:
+    cout<<"1.Breakfast"<<endl<<"2.Lunch"<<endl<<"3.Dinner"<<endl;
+    cout<<"Enter Your Shift~>"<<endl;
+    cin>>in;
+    switch(in)
+    {
+    case 1:
+    cout<<"pav bhaji"<<endl;
+    break;
+    case 2:
+    cout<<"daal roti"<<endl;
+     break;
+    case 3:
+    cout<<"fried rice"<<endl;
+     break;
+    }
+    break;
+    case 3:
+    cout<<"1.Breakfast"<<endl<<"2.Lunch"<<endl<<"3.Dinner"<<endl;
+    cout<<"Enter Your Shift~>"<<endl;
+    cin>>in;
+    switch(in)
+    {
+    case 1:
+    cout<<"sandwitch"<<endl;
+    break;
+    case 2:
+    cout<<"biryani"<<endl;
+     break;
+    case 3:
+    cout<<"non veg"<<endl;
+     break;
+    }
+    break;
+    case 4:
+    cout<<"1.Breakfast"<<endl<<"2.Lunch"<<endl<<"3.Dinner"<<endl;
+    cout<<"Enter Your Shift~>"<<endl;
+    cin>>in;
+    switch(in)
+    {
+    case 1:
+    cout<<"omelet"<<endl;
+    break;
+    case 2:
+    cout<<"egg rice"<<endl;
+     break;
+    case 3:
+    cout<<"shushi"<<endl;
+     break;
+    }
+    break;
+    case 5:
+    cout<<"1.Breakfast"<<endl<<"2.Lunch"<<endl<<"3.Dinner"<<endl;
+    cout<<"Enter Your Shift~>"<<endl;
+    cin>>in;
+    switch(in)
+    {
+    case 1:
+    cout<<"paratha"<<endl;
+    break;
+    case 2:
+    cout<<"puri sabzi"<<endl;
+     break;
+    case 3:
+    cout<<"rice"<<endl;
+     break;
+    }
+    break;
+    case 6:
+    cout<<"1.Breakfast"<<endl<<"2.Lunch"<<endl<<"3.Dinner"<<endl;
+    cout<<"Enter Your Shift~>"<<endl;
+    cin>>in;
+    switch(in)
+    {
+    case 1:
+    cout<<"vada pav"<<endl;
+    break;
+    case 2:
+    cout<<"chole bhature"<<endl;
+     break;
+    case 3:
+    cout<<"veg rice"<<endl;
+     break;
+    }
+    break;
+    case 7:
+    cout<<"1.Breakfast"<<endl<<"2.Lunch"<<endl<<"3.Dinner"<<endl;
+    cout<<"Enter Your Shift~>"<<endl;
+    cin>>in;
+    switch(in)
+    {
+    case 1:
+    cout<<"bread milk"<<endl;
+    break;
+    case 2:
+    cout<<"panner sabzi"<<endl;
+     break;
+    case 3:
+    cout<<"non veg"<<endl;
+     break;
+    }
+    break;
+}
+}
