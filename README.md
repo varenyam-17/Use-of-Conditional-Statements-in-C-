@@ -60,13 +60,13 @@ These constructs form the backbone of decision-making in programming and are key
  1. Even or Odd~>
  
   - Start
--
+
 - Input a number n
--
+
 - Check condition:
--
+
 - If n % 2 == 0, then
-→
+
 Display “Even number”
 
 - Else
@@ -78,15 +78,15 @@ Display “Even number”
 2.Vowel or Consonant~>
 
   - Start
--
+
 - Input a character ch
--
+
 - Convert ch to lowercase (if needed)
--
+
 - Check condition:
--
+
 - If ch is 'a', 'e', 'i', 'o', or 'u' →
-→
+
 Display “Vowel”
 
 - Else if ch is an alphabet character →
@@ -102,11 +102,11 @@ Display “Vowel”
 3.To find the Greatest Number among Three Numbers~>
 
   - Start
--
+
 - Input three numbers: a, b, and c
--
+
 - Check conditions:
--
+
 - If a ≥ b and a ≥ c →
 →
 Display “a is the greatest”
