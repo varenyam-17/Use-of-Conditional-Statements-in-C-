@@ -1,13 +1,13 @@
 # IF-ELSE-in-c-
 Varenyam Singh 24070123126
 
-Aim: To study and implement C++ decision making statements
+# Aim: To study and implement C++ decision making statements
 
-Theory:Decision-making statements allow a program to take different actions based on different conditions. They’re essential for adding logic and control to the program flow. In C++, the 
+## Theory: Decision-making statements allow a program to take different actions based on different conditions. They’re essential for adding logic and control to the program flow. In C++, the 
 
 main decision-making statements are:
 
-🔹 if Statement
+🔹if Statement
 
 
 - Executes a block of code only if a specified condition is true.
@@ -18,7 +18,7 @@ if (x > 0) {
 }
 
 
-🔹 if-else Statement
+🔹 ## if-else Statement
 
 - Executes one block if the condition is true, and another if false.
 
@@ -37,7 +37,7 @@ if (x > 0) {
     cout << "Zero";
 }
 
-🔹 switch Statement
+🔹 ## switch Statement
 
 - Used for checking a variable against multiple constant values. Best for menu-driven programs.
 
@@ -47,7 +47,7 @@ case 1: cout << "Option 1"; break;
     default: cout << "Invalid";
 }
 
-🔹 Conditional/Ternary Operator ? :
+🔹 ## Conditional/Ternary Operator ? :
 
 - Shorthand for simple if-else operations.
 
@@ -55,7 +55,7 @@ string result = (x > 0) ? "Positive" : "Non-positive";
 
 These constructs form the backbone of decision-making in programming and are key to implementing control structures in practical applications.
 
-  ALGORITHMS:
+  ## ALGORITHMS:
 
  1. Even or Odd~>
  
@@ -121,7 +121,7 @@ Display “a is the greatest”
 
 - End
 
- Conclusion
+ ## Conclusion
 Understanding and implementing decision-making statements in C++ is fundamental for writing logical and interactive programs. By mastering structures like if, else if, and switch, 
 programmers can guide program execution based on dynamic input and real-world conditions. This leads to more efficient, user-friendly, and adaptable software solutions. Practical 
 application of these statements enhances problem-solving skills and deepens your grasp of algorithmic thinking.
